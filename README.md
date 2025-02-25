@@ -1,4 +1,4 @@
-# 🚨 Threat Hunting Report: Identifying Suspicious PowerShell Web Requests
+# 🔍 Incident Response Analysis: Identifying Suspicious PowerShell Web Requests
 
 ![image](https://github.com/user-attachments/assets/2edf7e2d-294f-4ea4-a8a8-11fefded19ad)
 
