@@ -114,5 +114,5 @@ However, it highlighted gaps in **user awareness and PowerShell execution polici
 
 🔒 **Cybersecurity Team Response Log**  
 *Prepared by: Rasheed Jimoh*  
-*Date: 25 February, 2025*  
+*Date: February 25, 2025*  
 *Organization: RJInnovateHub*  
